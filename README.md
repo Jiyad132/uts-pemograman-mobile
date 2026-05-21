@@ -30,3 +30,6 @@ Aplikasi ini didesain khusus untuk generasi modern:
 <img width="225" height="225" alt="bakmi" src="https://github.com/user-attachments/assets/174071ad-0936-4216-bd1d-6c91b59a1f51" />
 
 <img width="1178" height="2498" alt="Screenshot_20260521_143937" src="https://github.com/user-attachments/assets/857665cc-e814-440c-810c-48cee7d3244e" />
+<img width="1178" height="2498" alt="Screenshot_20260521_143903" src="https://github.com/user-attachments/assets/1f21155a-7ae7-4801-90fe-3154b4e9f390" />
+<img width="1178" height="2498" alt="Screenshot_20260521_143921" src="https://github.com/user-attachments/assets/09e42b38-8e38-4da5-aedb-983569cf1b3a" />
+
