@@ -27,3 +27,4 @@ Aplikasi ini didesain khusus untuk generasi modern:
 - **Street Style Vibes**: Layout yang dinamis dan ikonografi yang trendy.
 
 *Level up your noodle game with Bakmi Gemboel!*
+<img width="225" height="225" alt="bakmi" src="https://github.com/user-attachments/assets/174071ad-0936-4216-bd1d-6c91b59a1f51" />
